@@ -1,10 +1,16 @@
-<h1 align="center">I'm Tonmoy Chandra Mudi</h1>
-<h3 align="center">🚀 A Passionate Python Enthusiast & Future Software Engineer</h3>
+<h1 align="center">🙏 RADHE RADHE 🙏</h1>
+<h1 align="center">Hlw, I'm Tonmoy Chandra Mudi</h1>
+<h3 align="center">🚀 A Passionate Python Enthusiast & Future Data Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=440&lines=🔴+Python+Lover;💡+Learning+New+Tech+Everyday;🌟+Building+Cool+Projects;🔥+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=440&lines=💡+Learning+New+Tech+Everyday;🌟+Building+Cool+Projects;📊+Future+Data+Analyst;🧠+Future+ML+Engineer" alt="Typing SVG" />
 </p>
 
+---
+### 📈 Visitor Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=techytcm&label=Profile%20views&color=ff69b4&style=flat" alt="techytcm" />
+</p>
 ---
 
 ### 📬 Contact Me:
@@ -33,13 +39,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techytcm&show_icons=true&include_all_commits=true&count_private=true&theme=radical&border_radius=10" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techytcm&layout=compact&theme=radical&border_radius=10"/>
-</p>
 
----
 
 ### 📈 GitHub Summary Cards
 <p align="center">
@@ -48,10 +48,7 @@
 </p>
 
 
-### 📈 Visitor Counter
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=techytcm&label=Profile%20views&color=ff69b4&style=flat" alt="techytcm" />
-</p>
+
 
 ---
 
