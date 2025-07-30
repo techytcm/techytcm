@@ -48,12 +48,7 @@
 - ⚡ Fun Fact: I love debugging almost as much as building  
 
 ---
-### 🧠 Let's Build Something Great Together!
 
-Feel free to connect, collaborate, or just say hello!  
-📬 Drop me a message via [LinkedIn](https://www.linkedin.com/in/techytcm/) or [Instagram](https://www.instagram.com/_techytcm_/)
-
----
 
 
 
