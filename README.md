@@ -33,9 +33,9 @@
 
 ---
 
-### 🚀 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techytcm&show_icons=true&theme=radical&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=techytcm&show_icons=true&include_all_commits=true&count_private=true&theme=radical&border_radius=10" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techytcm&layout=compact&theme=radical&border_radius=10"/>
 </p>
 
