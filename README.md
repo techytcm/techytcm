@@ -41,6 +41,12 @@
 
 ---
 
+### 📈 GitHub Summary Cards
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=techytcm&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techytcm&theme=github_dark" />
+</p>
+
 
 ### 📈 Visitor Counter
 <p align="center">
