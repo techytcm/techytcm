@@ -41,12 +41,6 @@
 
 ---
 
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=techytcm&theme=radical&border_radius=10"/>
-</p>
-
----
 
 ### 📈 Visitor Counter
 <p align="center">
