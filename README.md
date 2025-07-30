@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tonmoy Chandra Mudi</h1>
+<h1 align="center">I'm Tonmoy Chandra Mudi</h1>
 <h3 align="center">🚀 A Passionate Python Enthusiast & Future Software Engineer</h3>
 
 <p align="center">
@@ -43,7 +43,7 @@
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=techytcm&theme=radical&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com/?user=techytcm&theme=radical&border_radius=10"/>
 </p>
 
 ---
