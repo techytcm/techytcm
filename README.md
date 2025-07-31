@@ -4,6 +4,8 @@
   <img src="https://i.pinimg.com/originals/30/3e/f1/303ef12fdda83daaff43f8460d27c053.gif" width="22%" style="margin: 5px;">
   <img src="https://i.pinimg.com/originals/f8/84/56/f8845671ba7ee98be6df3d997045ce08.gif" width="22%" style="margin: 5px;">
 </p>
+
+
 <h1 align="center">Hlw There, I'm TCM 👋</h1>
 <h3 align="center">🚀Python Enthusiast | Tech Enthusiast | Lifelong Learner</h3>
 
@@ -49,12 +51,19 @@
 
 ---
 <h3 align="center">⚡Languages</h3>
-<p align="center"> 
+
+<p align="center">
+  <!-- GitHub Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=techymudi&show_icons=true&locale=en&layout=compact" alt="techymudi" />
+
+  <!-- Python Icon -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-left: 20px;" /> 
+  </a>
+
+  <!-- C Icon -->
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin-left: 10px;" />
   </a>
 </p>
 
