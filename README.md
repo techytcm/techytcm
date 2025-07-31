@@ -1,5 +1,10 @@
-<h1 align="center">🕉️</h1>
-<h1 align="center">Hi there, I'm TCM 👋</h1>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" width="22%" style="margin: 5px;">
+  <img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" width="22%" style="margin: 5px;">
+  <img src="https://i.pinimg.com/originals/30/3e/f1/303ef12fdda83daaff43f8460d27c053.gif" width="22%" style="margin: 5px;">
+  <img src="https://i.pinimg.com/originals/f8/84/56/f8845671ba7ee98be6df3d997045ce08.gif" width="22%" style="margin: 5px;">
+</p>
+<h1 align="center">Hlw There, I'm TCM 👋</h1>
 <h3 align="center">🚀Python Enthusiast | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
