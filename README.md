@@ -53,8 +53,6 @@
 <h3 align="center">⚡Languages</h3>
 
 <p align="center">
-  <!-- GitHub Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=techymudi&show_icons=true&locale=en&layout=compact" alt="techymudi" />
 
   <!-- Python Icon -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
