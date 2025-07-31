@@ -12,15 +12,15 @@
 </p>
 
 ---
-### 📈 Visitor Counter
+<h3 align="center">📈 Visitor Counter</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=techytcm&label=Profile%20views&color=ff69b4&style=flat" alt="techytcm" />
 </p>
 
 ---
-### 🌐 Connect with Me
+<h3 align="center">🌐 Connect with Me</h3>
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/techytcm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="techytcm" height="30" width="40" /></a>
 <a href="https://fb.com/techytcm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="techytcm" height="30" width="40" /></a>
 <a href="https://instagram.com/_techytcm_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_techytcm_" height="30" width="40" /></a>
@@ -28,7 +28,7 @@
 
 ---
 
-### 🛠️ Technologies & Tools
+<h3 align="center">🛠️ Technologies & Tools</h3>
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
@@ -39,16 +39,17 @@
 </p>
 
 ---
-### 💡 About Me
-
-- 🎓 Software Engineering student at Daffodil International University  
-- 💻 Passionate about clean code
-- 🌱 Currently improving in Data Science and ML 
-- ⚡ Fun Fact: I love debugging almost as much as building  
+<h3 align="center">💡 About Me</h3>
+<p align="center">
+ 🎓 Software Engineering student at Daffodil International University<br>  
+ 💻 Passionate about clean code<br>
+ 🌱 Currently improving in Data Science and ML<br> 
+ ⚡ Fun Fact: I love debugging almost as much as building<br>  
+</p>
 
 ---
-### ⚡Languages
-<p align="left"> 
+<h3 align="center">⚡Languages</h3>
+<p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
