@@ -70,3 +70,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
 </p>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/dc/a1/36/dca1369b386a431cd6170b6ec946278f.gif" width="58%">
+</p>
