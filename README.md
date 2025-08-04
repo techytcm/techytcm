@@ -65,6 +65,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin-left: 10px;" />
   </a>
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techytcm&" alt="GitHub Streak" />
+</p>
 
 
 <h3 align="center">🎯 Quote of the Day</h3>
