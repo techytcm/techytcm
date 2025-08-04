@@ -5,6 +5,9 @@
   <img src="https://i.pinimg.com/originals/f8/84/56/f8845671ba7ee98be6df3d997045ce08.gif" width="22%" style="margin: 5px;">
 </p>
 
+</p>
+ <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techytcm&layout=compact&langs_count=10" />
+</p>
 
 <h1 align="center">Hlw There, I'm TCM 👋</h1>
 <h3 align="center">🚀Python Enthusiast | Tech Enthusiast | Lifelong Learner</h3>
