@@ -7,7 +7,7 @@
 
 
 
-<h1 align="center">Hlw There, I am TCM 👋</h1>
+<h1 align="center">Hlw There, I'm TCM 👋</h1>
 <h3 align="center">🚀Python Enthusiast | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
