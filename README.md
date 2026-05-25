@@ -38,7 +38,7 @@
 <p align="center">
  🎓 Software Engineering student at Daffodil International University<br>  
  💻 Passionate about clean code<br>
- 🌱 Currently improving in Data Science and ML<br> 
+ 🌱 Currently improving in Data Engineer<br> 
  ⚡ Fun Fact: I love debugging almost as much as building<br>  
 </p>
 
