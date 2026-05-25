@@ -11,7 +11,7 @@
 <h3 align="center">🚀Pythonista | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=440&lines=💡+Learning+New+Tech+Everyday;📊+Future+Data+Analyst;🧠+Future+ML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=440&lines=💡+Learning+New+Tech+Everyday;📊+Data+Engineer" alt="Typing SVG" />
 </p>
 
 ---
