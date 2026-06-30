@@ -7,7 +7,7 @@
 
 
 
-<h1 align="center">Hlw There, I'm Tonmoy Chandra Mudi 👋</h1>
+<h1 align="center">Hi There, I'm Tonmoy Chandra Mudi 👋</h1>
 <h3 align="center">🚀Pythonista | Research-Oriented Learner | Lifelong Learner</h3>
 
 <p align="center">
