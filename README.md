@@ -43,17 +43,14 @@ I'm a <strong>Software Engineering</strong> student at <strong>Daffodil Internat
 🎓 Pursuing a Bachelor's degree in Software Engineering<br>
 💻 Writing clean, readable, and maintainable code<br>
 🌱 Learning software engineering principles and best practices<br>
-🛠️ Building projects that strengthen problem-solving skills<br>
-🤝 Contributing to open source and collaborating with developers<br><br>
+🛠️ Building projects that strengthen problem-solving skills<br><br>
 💼 <strong>Interests</strong><br><br>
-💻 Software Engineering • 🌐 Full-Stack Development • 🤖 Artificial Intelligence<br>
-🏗️ System Design • 🧩 Clean Architecture • 🧠 Problem Solving<br><br>
+💻 Software Engineering  • 🤖 Artificial Intelligence<br>
+🏗️ System Design • 🧩 Clean Architecture <br><br>
 🎯 <strong>Goals</strong><br><br>
 🚀 Build impactful software that solves real-world problems<br>
 📈 Grow into a highly skilled Software Engineer<br>
-📚 Continuously learn modern technologies and engineering practices<br>
-🤝 Contribute to meaningful open-source projects<br><br>
-  
+📚 Continuously learn modern technologies and engineering practices<br><br>
 <i>"First, solve the problem. Then, write the code."</i><br>
 <b>— John Johnson</b>
 
