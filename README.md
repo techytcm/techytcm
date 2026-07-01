@@ -36,10 +36,8 @@
 ---
 <h3 align="center">💡 About Me</h3>
 <p align="center">
- 🎓 Software Engineering student at Daffodil International University<br>  
- 💻 Passionate about clean code<br>
- 🌱 Currently improving in software engineering<br> 
- ⚡ Fun Fact: I love debugging almost as much as building<br>  
+I'm a Software Engineering student at Daffodil International University with a strong passion for building reliable, scalable, and user-focused software. <br>
+  "First, solve the problem. Then, write the code." — John Johnson
 </p>
 
 ---
