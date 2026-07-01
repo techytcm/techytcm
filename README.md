@@ -34,45 +34,40 @@
 </p>
 
 ---
-```html
-<h3 align="center">💡 About Me</h3>
+<div align="center">
 
-<p align="center">
-I'm a <strong>Software Engineering</strong> student at <strong>Daffodil International University</strong> passionate about building reliable, scalable, and user-centric software.<br>
-I enjoy turning ideas into practical solutions through clean, maintainable code while continuously improving my engineering skills through real-world projects.
-</p>
+<h2>💡 About Me</h2>
 
-<h3 align="center">🚀 What I'm Focused On</h3>
+<p>
+I'm a <strong>Software Engineering</strong> student at <strong>Daffodil International University</strong> passionate about building reliable, scalable, and user-centric software.<br><br>
 
-<p align="center">
+🚀 <strong>What I'm Focused On</strong><br><br>
+
 🎓 Pursuing a Bachelor's degree in Software Engineering<br>
 💻 Writing clean, readable, and maintainable code<br>
 🌱 Learning software engineering principles and best practices<br>
 🛠️ Building projects that strengthen problem-solving skills<br>
-🤝 Contributing to open source and collaborating with developers
-</p>
+🤝 Contributing to open source and collaborating with developers<br><br>
 
-<h3 align="center">💼 Interests</h3>
+💼 <strong>Interests</strong><br><br>
 
-<p align="center">
 💻 Software Engineering • 🌐 Full-Stack Development • 🤖 Artificial Intelligence<br>
-🏗️ System Design • 🧩 Clean Architecture • 🧠 Problem Solving
-</p>
+🏗️ System Design • 🧩 Clean Architecture • 🧠 Problem Solving<br><br>
 
-<h3 align="center">🎯 Goals</h3>
+🎯 <strong>Goals</strong><br><br>
 
-<p align="center">
 🚀 Build impactful software that solves real-world problems<br>
 📈 Grow into a highly skilled Software Engineer<br>
 📚 Continuously learn modern technologies and engineering practices<br>
-🤝 Contribute to meaningful open-source projects
+🤝 Contribute to meaningful open-source projects<br><br>
+
+<i>"First, solve the problem. Then, write the code."</i><br>
+<b>— John Johnson</b>
+
 </p>
 
-<p align="center">
-<i>"First, solve the problem. Then, write the code."</i><br>
-<strong>— John Johnson</strong>
-</p>
-```
+</div>
+
 
 
 ---
