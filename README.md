@@ -38,21 +38,19 @@
 
 <h2>💡 About Me</h2>
 <p>
-I'm a <strong>Software Engineering</strong> student at <strong>Daffodil International University</strong> passionate about building reliable, scalable, and user-centric software.<br><br>
-🚀 <strong>What I'm Focused On</strong><br><br>
-🎓 Pursuing a Bachelor's degree in Software Engineering<br>
-💻 Writing clean, readable, and maintainable code<br>
-🌱 Learning software engineering principles and best practices<br>
-🛠️ Building projects that strengthen problem-solving skills<br><br>
-💼 <strong>Interests</strong><br><br>
-💻 Software Engineering  • 🤖 Artificial Intelligence<br>
-🏗️ System Design • 🧩 Clean Architecture <br><br>
-🎯 <strong>Goals</strong><br><br>
-🚀 Build impactful software that solves real-world problems<br>
-📈 Grow into a highly skilled Software Engineer<br>
-📚 Continuously learn modern technologies and engineering practices<br><br>
-<i>"First, solve the problem. Then, write the code."</i><br>
-<b>— John Johnson</b>
+
+<div align="center">
+
+💻 Software Engineering student building scalable and reliable software.<br>
+🚀 Passionate about clean code, system design, and continuous learning.<br>
+🤖 Exploring AI and modern software engineering practices.<br>
+🎯 Building projects that solve real-world problems.<br><br>
+<i>"First, solve the problem. Then, write the code."</i>
+
+</div>
+
+
+
 
 </p>
 
