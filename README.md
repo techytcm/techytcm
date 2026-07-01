@@ -36,7 +36,6 @@
 ---
 <h3 align="center">💡 About Me</h3>
 <p align="center">
-## 💡 About Me
 
 I'm a **Software Engineering** student at **Daffodil International University** passionate about building reliable, scalable, and user-centric software. I enjoy turning ideas into practical solutions through clean, maintainable code while continuously improving my engineering skills with real-world projects.
 
