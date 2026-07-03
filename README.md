@@ -42,7 +42,7 @@
 <div align="center">
 
 💻 Software Engineering student building scalable and reliable software.<br>
-🚀 Passionate about clean code, system design, and continuous learning.<br>
+🚀 Passionate about clean code, system design and continuous learning.<br>
 🤖 Exploring AI and modern software engineering practices.<br>
 🎯 Building projects that solve real-world problems.<br><br>
 <i>"First, solve the problem. Then, write the code."</i>
