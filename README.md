@@ -6,29 +6,35 @@
 <!-- ======================================== -->
 <!-- EXECUTIVE BRIEFING / ABOUT ME CARD -->
 <!-- ======================================== -->
-
 <table width="100%" border="0" style="background-color: #0d1117; border-radius: 10px;">
   <tr>
     <td style="padding: 20px;">
-      <p align="left">
+      <p align="center">
         I am a <b>Software Engineering Student & Researcher</b> dedicated to architecting high-availability systems. My methodology merges rigorous computer science fundamentals with modern agile full-stack practices.
       </p>
       <hr style="border: 0.5px solid #30363d;">
       <table width="100%">
         <tr>
-          <td width="50%" valign="top">
-            <h4>🎯 Core Objectives</h4>
-            <ul>
-              <li>Building resilient, enterprise-grade web applications.</li>
-              <li>Researching deep learning pipelines & ML optimizations.</li>
-              <li>Contributing high-impact tools to open-source software.</li>
+          <td width="50%" valign="top" align="center">
+            <p>
+              <strong>🎯 Core Objectives</strong>
+            </p>
+            <ul align="left">
+              <li>Building resilient and maintainable software systems.</li>
+              <li>Exploring machine learning and intelligent applications.</li>
+              <li>Strengthening backend and system design skills.</li>
+              <li>Contributing to open-source projects.</li>
             </ul>
           </td>
-          <td width="50%" valign="top">
-            <h4>🦄 Engineering Philosophy</h4>
+          <td width="50%" valign="top" align="center">
+            <p>
+              <strong>🦄 Engineering Philosophy</strong>
+            </p>
             <blockquote>
-              <i>"First, solve the problem. Then, write the code."</i><br/><br/>
-              <b>Core Drivers:</b> Code Cleanliness • System Scalability • Continuous Learning
+              <i>"First, solve the problem. Then, write the code."</i>
+              <br/><br/>
+              <b>Core Drivers:</b><br>
+              Code Cleanliness • System Scalability • Continuous Learning
             </blockquote>
           </td>
         </tr>
@@ -36,7 +42,6 @@
     </td>
   </tr>
 </table>
-
 <br/>
 
 <!-- ======================================== -->
