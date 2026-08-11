@@ -42,12 +42,21 @@
 <!-- ======================================== -->
 <!-- TECH ECOSYSTEM & ARCHITECTURE -->
 <!-- ======================================== -->
-
 <div align="center">
-  <!-- Minimal Skill Icons -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,java,js,nodejs,express,pytorch,pandas,sklearn,git,github,linux,vscode,idea&perline=7&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="45">
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="45">
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="45">
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="45">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="45">
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="45">
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="45">
+  <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="45">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="45">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="45">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45">
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="45">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="45">
+  <img src="https://skillicons.dev/icons?i=idea&theme=dark" width="45">
 </div>
 
 <br/>
