@@ -9,13 +9,13 @@
 <table width="100%" border="0" style="background-color: #0d1117; border-radius: 10px;">
   <tr>
     <td style="padding: 20px;">
-      <p align="center">
+      <p align="left">
         I am a <b>Software Engineering Student & Researcher</b> dedicated to architecting high-availability systems. My methodology merges rigorous computer science fundamentals with modern agile full-stack practices.
       </p>
       <hr style="border: 0.5px solid #30363d;">
       <table width="100%">
         <tr>
-          <td width="50%" valign="top" align="center">
+          <td width="50%" valign="top" align="left">
             <p>
               <strong>🎯 Core Objectives</strong>
             </p>
@@ -26,7 +26,7 @@
               <li>Contributing to open-source projects.</li>
             </ul>
           </td>
-          <td width="50%" valign="top" align="center">
+          <td width="50%" valign="top" align="left">
             <p>
               <strong>🦄 Engineering Philosophy</strong>
             </p>
