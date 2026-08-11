@@ -15,13 +15,11 @@
 </p>
 
 ---
-<h3 align="center">📈 Visitor Counter</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=techytcm&label=Profile%20views&color=ff69b4&style=flat" alt="techytcm" />
+  <b>i love code</b>&nbsp;&nbsp;<img src="cat-typing.gif" alt="cat typing">&nbsp;&nbsp;<b>and unicorns</b>&nbsp;&nbsp;<img src="unicorn.gif" alt="unicorn">
 </p>
 
-
----
 
 <h3 align="center">🛠️ Technologies & Tools</h3>
 
