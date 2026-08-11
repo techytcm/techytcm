@@ -7,17 +7,14 @@
 
 
 
-<h1 align="center">Hi There, I'm Tonmoy Chandra Mudi 👋</h1>
-<h3 align="center"> Research-Oriented Learner</h3>
+<!-- Dynamic Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36,0,212,255&height=200&section=header&text=Tonmoy%20Chandra%20Mudi&fontSize=46&animation=twinkle&fontAlignY=38&desc=Software%20Engineer%20%7C%20Research-Oriented%20Learner&descAlignY=62&descAlign=50" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=440&lines=💡+Learning+New+Tech+Everyday;Software+Engineer;Research+Oriented+Learner;Lifelong+Learner" alt="Typing SVG" />
-</p>
 
 ---
 
 <p align="center">
-  <b>i love code</b>&nbsp;&nbsp;<img src="cat-typing.gif" alt="cat typing">&nbsp;&nbsp;<b>and unicorns</b>&nbsp;&nbsp;<img src="unicorn.gif" alt="unicorn">
+  <b>i love code</b>&nbsp;&nbsp;<img src="cat-typing.gif" alt="cat typing">
 </p>
 
 ---
@@ -51,32 +48,29 @@
 
 ## 📈 Current Focus
 
-Full-stack application development • Open Source Contributions
+Full-stack application development • Research opportunities
 
 </div>
+
 ---
-<div align="center">
 
-<h2>💡 About Me</h2>
-<p>
-
-<div align="center">
-
-💻 Software Engineering student building scalable and reliable software.<br>
-🚀 Passionate about clean code, system design and continuous learning.<br>
-🤖 Exploring AI and modern software engineering practices.<br>
-🎯 Building projects that solve real-world problems.<br><br>
-<i>"First, solve the problem. Then, write the code."</i>
-
-</div>
-
-
-
-
-</p>
-
-</div>
-
+<!-- Premium About Me Card -->
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="90%" style="background-color: #0d1117; border-radius: 15px; border: 1px solid #30363d; box-shadow: 0 10px 30px rgba(0,0,0,0.5); margin-bottom: 30px;">
+  <tr>
+    <td align="center" style="padding: 30px;">
+      <h2 style="color: #58a6ff; border-bottom: 1px solid #30363d; display: inline-block; padding-bottom: 10px;">✨ About Me</h2>
+      <br>
+      <p align="center" style="color: #c9d1d9; font-size: 1.1em; line-height: 1.8;">
+        💻 Software Engineering student building scalable and reliable software.<br>
+        🚀 Passionate about clean code, system design, and continuous learning.<br>
+        🤖 Exploring AI and modern software engineering practices.<br>
+        🎯 Building projects that solve real-world problems.<br>
+        <br>
+        <i style="color: #8b949e;">"First, solve the problem. Then, write the code."</i>
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 ---
@@ -97,8 +91,13 @@ Full-stack application development • Open Source Contributions
 
 
 
-<h3 align="center">🎯 Quote of the Day</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
-</p>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="90%" style="background-color: #0d1117; border-radius: 15px; border: 1px solid #30363d; box-shadow: 0 10px 30px rgba(0,0,0,0.5); margin-bottom: 30px;">
+  <tr>
+    <td align="center" style="padding: 30px;">
+      <h2 style="color: #58a6ff; border-bottom: 1px solid #30363d; display: inline-block; padding-bottom: 10px;">🎯 Quote of the Day</h2>
+      <br><br>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0d1117&border_color=30363d&quote_color=c9d1d9&accent_color=58a6ff" style="border-radius: 10px; width: 80%; max-width: 600px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);"/>
+    </td>
+  </tr>
+</table>
 
