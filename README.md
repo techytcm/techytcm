@@ -10,7 +10,6 @@
 <table width="100%" border="0" style="background-color: #0d1117; border-radius: 10px;">
   <tr>
     <td style="padding: 20px;">
-      <h2 align="left">💎 Executive Briefing</h2>
       <p align="left">
         I am a <b>Software Engineering Student & Researcher</b> dedicated to architecting high-availability systems. My methodology merges rigorous computer science fundamentals with modern agile full-stack practices.
       </p>
@@ -43,8 +42,6 @@
 <!-- ======================================== -->
 <!-- TECH ECOSYSTEM & ARCHITECTURE -->
 <!-- ======================================== -->
-
-## ⚡ Technical Ecosystem
 
 <div align="center">
   <!-- Minimal Skill Icons -->
