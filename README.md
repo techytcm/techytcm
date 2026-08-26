@@ -10,7 +10,7 @@
   <tr>
     <td style="padding: 20px;">
       <p align="left">
-        I am a <b>Software Engineering Student & Researcher</b> dedicated to architecting high-availability systems. My methodology merges rigorous computer science fundamentals with modern agile full-stack practices.
+        I am a <b>Software Engineering Student </b> dedicated to architecting high-availability systems. My methodology merges rigorous computer science fundamentals with modern agile full-stack practices.
       </p>
       <hr style="border: 0.5px solid #30363d;">
       <table width="100%">
